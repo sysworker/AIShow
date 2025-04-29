@@ -1,0 +1,103 @@
+{
+  "hotTools": [
+
+    {
+"icon": "https://ai-bot.cn/wp-content/uploads/2024/07/tusiart-logo.png",
+      "name": "吐司AI",
+      "description": "AI绘画模型社区和在线生图平台",
+"tag":1
+    },
+    {
+"icon": "https://ai-bot.cn/wp-content/uploads/2025/02/trae-logo.png",
+      "name": "Trae",
+      "description": "字节跳动推出的免费AI编程工具，基于Claude模型",
+"tag":2
+    },
+    {
+"icon": "https://ai-bot.cn/wp-content/uploads/2023/10/aippt-cn-icon.png",
+      "name": "AiPPT",
+      "description": "AI快速生成高质量PPT",
+"tag":3
+    },
+    {
+"icon": "https://ai-bot.cn/wp-content/uploads/2024/06/metaso-ai-search-icon.png",
+      "name": "秘塔AI搜索",
+      "description": "最好用的AI搜索工具，没有广告，直达结果",
+"tag":4
+    },
+    {
+"icon": "https://ai-bot.cn/wp-content/uploads/2023/07/d-design-ai-icon.png",
+      "name": "堆友AI",
+      "description": "阿里出品的免费AI绘画和出图神器",
+"tag":6
+    },
+    {
+"icon": "https://ai-bot.cn/wp-content/uploads/2023/04/meitu-ai-ppt.jpg",
+      "name": "美图设计室",
+      "description": "AI图像创作和设计平台",
+"tag":7
+    },
+    {
+"icon": "https://ai-bot.cn/wp-content/uploads/2024/09/yizhentv-logo.png",
+      "name": "秒创",
+      "description": "免费AI视频创作工具，支持图文生视频、PPT生视频",
+"tag":8
+    },
+    {
+"icon": "https://ai-bot.cn/wp-content/uploads/2024/08/turbodesk-logo.png",
+      "name": "讯飞绘文",
+      "description": "免费AI写作工具，5分钟生成一篇原创稿！",
+"tag":9
+    },
+    {
+"icon": "https://ai-bot.cn/wp-content/uploads/2024/03/ihuiwa-icon.png",
+      "name": "绘蛙",
+      "description": "AI电商营销工具，免费生成商品图和种草文案",
+"tag":10
+    },
+    {
+"icon": "https://ai-bot.cn/wp-content/uploads/2023/12/coze-ai-icon.png",
+      "name": "Coze",
+      "description": "海量AI智能体免费用，已接入DeepSeek满血版",
+"tag":11
+    }
+  ],
+  "latestAdditions": [
+    {
+"icon": "https://ai-bot.cn/wp-content/uploads/2025/04/z-ai-logo.png",
+      "name": "Z.ai",
+      "description": "智谱面向全球推出的最新模型体验平台",
+"tag":102
+    },
+    {
+"icon": "https://ai-bot.cn/wp-content/uploads/2025/04/Gitee-AI-logo.png",
+      "name": "模力方舟",
+      "description": "AI应用共创平台，提供开发到部署一站式服务",
+"tag":103
+    },
+    {
+"icon": "https://ai-bot.cn/wp-content/uploads/2025/04/Firebase-Studio-logo.png",
+      "name": "Firebase Studio",
+      "description": "谷歌推出的AI编程工具，一站式开发全栈应用",
+"tag":104
+    },
+    {
+"icon": "https://ai-bot.cn/wp-content/uploads/2025/04/MGX-logo.png",
+      "name": "MGX",
+      "description": "基于MetaGPT框架的AI编程工具",
+"tag":105
+    },
+    {
+"icon": "https://ai-bot.cn/wp-content/uploads/2025/04/Noiz-AI-logo.png",
+      "name": "Noiz AI",
+      "description": "AI配音工具，支持文本转语音和声音克隆",
+"tag":106
+    },
+    {
+"icon": "https://ai-bot.cn/wp-content/uploads/2025/04/shejijia-logo.png",
+      "name": "居然设计家",
+      "description": "居然之家联合阿里推出的AI家装设计平台",
+"tag":107
+    }
+  ]
+}
